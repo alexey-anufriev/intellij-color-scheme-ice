@@ -1,11 +1,15 @@
 <scheme name="ICE" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-06-04T01:54:06</property>
+    <property name="created">2021-01-06T22:48:03</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-06-04T01:54:22</property>
+    <property name="ideVersion">2020.3.1.0.0</property>
+    <property name="modified">2021-01-06T22:48:12</property>
     <property name="originalScheme">ICE</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="Fira Code Retina" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <attributes>
     <option name="DEFAULT_CLASS_NAME">
       <value>
@@ -19,6 +23,11 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value />
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="6ca45b" />
+      </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
@@ -45,6 +54,18 @@
       <value>
         <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="STATIC_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="69bbad" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="c0b900" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
